@@ -1,4 +1,4 @@
-# Hello 👋, I'm Skreg
+# Hello 👋, I'm Edoitachi
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Fancy GIF" style="width: 500px; height: 200px; border: 2px solid #e1e4e8; border-radius: 10px;"/>
 </div>
@@ -13,10 +13,10 @@ I am a software engineer with a passion for creating innovative solutions to com
 
 
 <div align="center">
-  <a href="https://github.com/shyama7004">
+  <a href="https://github.com/EdoItachi">
     <img src="https://img.shields.io/github/followers/shyama7004?label=Follow&style=social" alt="Follow">
   </a>
-  <a href="https://github.com/sponsors/shyama7004">
+  <a href="https://github.com/sponsors/EdoItachi">
     <img src="https://img.shields.io/badge/Sponsor-❤-red" alt="Sponsor">
   </a>
   <!--<a href="https://www.linkedin.com/in/sssa23/">
@@ -63,9 +63,9 @@ I am a software engineer with a passion for creating innovative solutions to com
     <td><strong>Year</strong></td>
   </tr>
   <tr>
-    <td>NIT Rourkela</td>
-    <td style="background-color: orange;">B.Tech Ceramics</td>
-    <td style="background-color: blue; color: white;">8.11/10</td>
+    <td>NIT R</td>
+    <td style="background-color: orange;">B.Tech</td>
+    <td style="background-color: blue; color: white;">8.14/10</td>
     <td style="background-color: cyan;">2023-2027</td>
   </tr>
 </table>
