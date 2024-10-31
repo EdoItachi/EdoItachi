@@ -24,9 +24,3 @@ I'm a software developer and competitive programmer with a passion for solving c
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-## Competitive Programming
-
-[![CodeChef](https://img.shields.io/badge/CodeChef-6b5b95?style=for-the-badge)](https://www.codechef.com/users/shyama7004)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge)](https://codeforces.com/profile/Shyama7004)
-[![LeetCode](https://img.shields.io/badge/LeetCode-ffa116?style=for-the-badge)](https://leetcode.com/u/Edoitachi7004/)
-
